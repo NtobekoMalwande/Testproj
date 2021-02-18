@@ -2,3 +2,5 @@ grapes
 peaches
 kiwis
 apples
+bananas
+oranges
